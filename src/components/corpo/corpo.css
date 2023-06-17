@@ -1,0 +1,7 @@
+.backimg {
+    max-width: 100vw;
+    background-image: url(/public/background.png);
+    width: 100vw;
+    height: 622px;
+    overflow: hidden;
+}
