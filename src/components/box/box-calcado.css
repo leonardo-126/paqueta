@@ -1,0 +1,46 @@
+.img-back{
+    background-image: url(fem.png);
+    position: relative;
+    width: 622px;
+    height: 620px;
+}
+.img-back span{
+    color: #FFFFFF;
+    font-size: 48px;
+    display: flex;
+    align-items: end;
+    height: 550px;
+    width: 300px;
+}
+.box-container{
+
+    display: flex;
+    text-align: center;
+    justify-content: space-evenly;
+    margin-top: 100px;
+}
+.box-fem{
+    display: flex;
+    align-items: center;
+}
+.text{
+    width: 520px;
+    text-align: right;
+    margin-left: 30px;
+    font-size: 22px;
+}
+.conferir{
+    background: linear-gradient(122.71deg, #F99500 53.34%, #FFCD29 133.06%);
+    display: flex;
+    align-items: center;
+    width: 250px;
+    height: 40px;
+    font-size: 18px;
+    font-weight: 500;
+    color: #FFFFFF;
+    border-radius: 3px;
+    justify-content: center;
+    margin-top: 50px;
+    align-content: end;
+
+}

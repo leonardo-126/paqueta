@@ -1,0 +1,19 @@
+.container-footer{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    flex-direction: row;    
+    margin-bottom: 150px;
+}
+.title-footer{
+    width: 1300px;
+    margin: 0 auto;
+    
+
+}
+.title-footer h1{
+    font-weight: 600;
+    font-size: 34px;
+    color: #121212;
+    margin-bottom: 80px;
+}

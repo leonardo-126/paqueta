@@ -1,0 +1,46 @@
+.img-back-mas{
+    background-image: url(mas.png);
+    width: 620px;
+    height: 620px;
+    position: relative;
+    border-radius: 3px;
+}
+.img-back-mas span{
+    color: #FFFFFF;
+    font-size: 48px;
+    display: flex;
+    align-items: end;
+    height: 550px;
+    width: 300px;
+    text-align: right;
+    margin-left: 280px;
+}
+.container-mas{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 100px;
+    margin-bottom: 100px;
+
+}
+.text-mas{
+    width: 520px;
+    height: 100px;
+    margin-right: 30px;
+    font-size: 22px;
+    color: #383838;
+}
+.conferir-mas{
+    background: linear-gradient(122.71deg, #F99500 53.34%, #FFCD29 133.06%);
+    display: flex;
+    align-items: center;
+    width: 250px;
+    height: 40px;
+    font-size: 18px;
+    font-weight: 500;
+    color: #FFFFFF;
+    border-radius: 3px;
+    justify-content: center;
+    margin-top: 50px;
+
+}

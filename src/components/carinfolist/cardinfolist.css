@@ -1,0 +1,14 @@
+.cardinfolist{
+    width: 100vw;
+    height: 163px;
+    background: linear-gradient(92.46deg, #FF8A29 31.2%, #CF5D00 71.97%);
+}
+.cardinfolist-content{
+    max-width: 1300px;
+    width: 100vw;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    height: 100%;
+}

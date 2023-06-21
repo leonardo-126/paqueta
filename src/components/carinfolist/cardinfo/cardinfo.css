@@ -1,0 +1,16 @@
+.cardinfo{
+    display: flex;
+    align-items: center;
+    font-size: 14px;
+    font-weight: 400;
+    color: #fff;
+}
+
+.cardinfotxt{
+    display: flex;
+    flex-direction: column;
+    margin-left: 20px;
+}
+.cardinfotxt strong{
+    width: 120px;
+}
